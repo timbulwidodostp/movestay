@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'movestay': Maximum-likelihood estimation of endogenous switching regression model Use movestay With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f movestay.ado
+f movestay.hlp
+f movestay_d2.ado
+f movestay_p.ado
