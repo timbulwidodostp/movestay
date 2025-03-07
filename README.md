@@ -1,6 +1,8 @@
 # movestay
 Maximum-likelihood estimation of endogenous switching regression model Use movestay With STATA 18
 
+https://www.youtube.com/watch?v=n3WBVcKOGx8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
